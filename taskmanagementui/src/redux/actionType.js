@@ -1,0 +1,2 @@
+export const SELECTED_DATA = "SELECTED_DATA"
+
